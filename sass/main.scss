@@ -1,0 +1,12 @@
+//reset
+@import './reset/_variables';
+@import './reset/_configuracion';
+@import './reset/_mixin.scss';
+//header
+@import '_encabezado';
+
+//main-aside-footer
+@import '_principal';
+@import './pie';
+//mq
+@import './reset/mq';
